@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Jianlin Ke! </h2>
 
-I'm a self-taught passionate FrontEnd developer from china
+I'm a self-taught passionate Full-Stack developer from china
 
 ### About me
 
