@@ -4,9 +4,9 @@ I'm a self-taught passionate FrontEnd developer from china
 
 ### About me
 
-- 💼 FrontEnd Engineer
+- 💼 Full-Stack Engineer
 
-- ❤️ Read | Write | Travel | Pick-up | Electronic Keyboard | Ancient Poetry | Law
+- ❤️ Read | Write | Travel | Motorcycle | Billiards | Mahjong | Fishing
 
 - 🌈 World Travel | Remote Work
 
